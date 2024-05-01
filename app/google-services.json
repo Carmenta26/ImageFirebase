@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046054625071",
+    "project_id": "imagenproyect-15151",
+    "storage_bucket": "imagenproyect-15151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046054625071:android:804c3f67ebce21b2e88bda",
+        "android_client_info": {
+          "package_name": "com.example.imageproyect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvGkY48dwCPkjNhh9ptfUzkxJBRtJTFew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
